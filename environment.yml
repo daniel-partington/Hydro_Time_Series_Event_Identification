@@ -12,3 +12,5 @@ dependencies:
   - bokeh
   - dask
   - scipy
+  - pip:
+    - EMD-signal  
