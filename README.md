@@ -5,7 +5,7 @@ Daniel Partington ([GitHub](https://github.com/daniel-partington), [ORCID](https
 [![DOI](https://zenodo.org/badge/257156492.svg)](https://zenodo.org/badge/latestdoi/257156492)
 
 
-This repository provides the script used in the above titled paper to build the synthetic time series dataset. Reproducing this dataset can be completed by downloading and running the Jupyter notebook below or by launching with Binder from the link below:
+This repository provides the script used in the above titled paper to build the synthetic time series dataset. Reproducing this dataset can be completed by downloading and running the [Jupyter notebook](Synthetic_example_build.ipynb) locally or by launching with Binder from the link below:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/daniel-partington/Hydro_Time_Series_Event_Identification/master) 
 
